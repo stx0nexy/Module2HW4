@@ -26,7 +26,7 @@ namespace Safari
             {
                 Console.WriteLine($"{animal.GetType().Name}, size: {animal.Size}");
             }
-            Console.WriteLine($"Found animal:{FindAnimalBySize.Find(_section, SizeTypes.medium).GetType().Name}, size: {FindAnimalBySize.Find(_section, SizeTypes.medium).Size}");
+            Console.WriteLine($"Found animal:{FindAnimalBySize.Find(_section, SizeTypes.Medium).GetType().Name}, size: {FindAnimalBySize.Find(_section, SizeTypes.Medium).Size}");
 
            
         }

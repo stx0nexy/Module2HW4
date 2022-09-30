@@ -2,8 +2,8 @@
 {
     public enum SizeTypes
     {
-        small,
-        medium,
-        large
+        Small,
+        Medium,
+        Large
     }
 }

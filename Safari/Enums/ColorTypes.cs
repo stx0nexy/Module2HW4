@@ -2,11 +2,11 @@
 {
     public enum ColorTypes
     {
-        black,
-        orange,
-        brown,
-        wight,
-        pink,
-        grey
+        Black,
+        Orange,
+        Brown,
+        Wight,
+        Pink,
+        Grey
     }
 }
